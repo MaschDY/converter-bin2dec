@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bin2Dec</string>
+    <string name="converter_title_label">Converter Binary \n to Decimal</string>
+    <string name="converter_binary_number_label">Binary Number</string>
+    <string name="converter_convert_label">Convert</string>
+    <string name="converter_result_title_label">Result of conversion is:</string>
+    <string name="converter_result">0</string>
+</resources>
